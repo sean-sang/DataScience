@@ -17,13 +17,13 @@ Compares the execution time of three classic sorting algorithms — **Selection 
 - Execution time comparison and tabular output
 
 
-## 📁 Project 2 – Data Import and CSV Analysis
+##  Project 2 – Data Import and CSV Analysis
 
 This project demonstrates how to **import, parse, and analyze CSV data** using Python. It reads numerical data from a CSV file and computes column-wise statistics, including **mean**, **minimum**, and **maximum** values.
 
 ---
 
-### ✅ Features
+###  Features
 - Reads numeric data from a CSV file
 - Calculates and prints:
   - Column-wise **Mean**
